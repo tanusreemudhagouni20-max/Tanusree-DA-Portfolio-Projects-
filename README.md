@@ -31,6 +31,7 @@ Project Repository: (link to your Excel project repo)
 
 ##Repositories:
 https://github.com/tanusreemudhagouni20-max/COVID-19-SQL-Tableau-Project
+https://github.com/tanusreemudhagouni20-max/customer-churn-excel-analysis
 
 
 

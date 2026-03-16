@@ -29,7 +29,8 @@ Project Repository: (link to your Excel project repo)
 7. Analyzed customer churn data to identify patterns leading to customer attrition. Built pivot tables and dashboards to highlight high-risk customer segments.
    Project Repository: 
 
-## Dashboard Previews
+##Repositories:
+https://github.com/tanusreemudhagouni20-max/COVID-19-SQL-Tableau-Project
 
 
 

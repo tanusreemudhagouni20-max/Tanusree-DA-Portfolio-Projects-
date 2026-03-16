@@ -30,8 +30,10 @@ Project Repository: (link to your Excel project repo)
    Project Repository: 
 
 ##Repositories:
+
 https://github.com/tanusreemudhagouni20-max/COVID-19-SQL-Tableau-Project
 https://github.com/tanusreemudhagouni20-max/customer-churn-excel-analysis
+https://github.com/tanusreemudhagouni20-max/movie-industry-python-analysis
 
 
 
